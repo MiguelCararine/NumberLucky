@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumeroDaSorte</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="number_generator">Gerar Números</string>
+</resources>
